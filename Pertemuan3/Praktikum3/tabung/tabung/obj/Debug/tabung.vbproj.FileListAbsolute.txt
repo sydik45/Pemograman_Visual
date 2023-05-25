@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\bin\Debug\tabung.exe.config
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\bin\Debug\tabung.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\bin\Debug\tabung.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\bin\Debug\tabung.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.Form1.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.Resources.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 3\PRAKTIKUM3\tabung\tabung\obj\Debug\tabung.vbproj.GenerateResource.Cache
