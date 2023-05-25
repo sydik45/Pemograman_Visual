@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\bin\Debug\radio button_check box.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\bin\Debug\radio button_check box.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe.config
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbprojResolveAssemblyReference.cache
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Form1.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Resources.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbproj.GenerateResource.Cache
