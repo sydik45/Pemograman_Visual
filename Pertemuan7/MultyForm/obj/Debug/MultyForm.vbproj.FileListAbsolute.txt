@@ -1,0 +1,19 @@
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\bin\Debug\MultyForm.exe.config
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\bin\Debug\MultyForm.exe
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\bin\Debug\MultyForm.pdb
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\bin\Debug\MultyForm.xml
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.vbprojResolveAssemblyReference.cache
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.Form1.resources
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.Form2.resources
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.Form3.resources
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.Resources.resources
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.vbproj.GenerateResource.Cache
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.exe
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.xml
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.pdb
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.Form4.resources
+c:\users\keke crank\documents\visual studio 2015\Projects\MultyForm\obj\Debug\MultyForm.Form5.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan7\MultyForm\bin\Debug\MultyForm.exe.config
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan7\MultyForm\obj\Debug\MultyForm.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan7\MultyForm\obj\Debug\MultyForm.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan7\MultyForm\obj\Debug\MultyForm.pdb
