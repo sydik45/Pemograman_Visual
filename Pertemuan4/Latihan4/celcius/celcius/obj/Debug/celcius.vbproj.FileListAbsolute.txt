@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\bin\Debug\celcius.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\obj\Debug\celcius.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\obj\Debug\celcius.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\obj\Debug\celcius.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\obj\Debug\celcius.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\bin\Debug\celcius.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\bin\Debug\celcius.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\bin\Debug\celcius.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\obj\Debug\celcius.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\obj\Debug\celcius.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\celcius\celcius\obj\Debug\celcius.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\bin\Debug\celcius.exe.config
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\obj\Debug\celcius.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\obj\Debug\celcius.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\obj\Debug\celcius.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\bin\Debug\celcius.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\bin\Debug\celcius.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\bin\Debug\celcius.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\obj\Debug\celcius.vbprojResolveAssemblyReference.cache
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\obj\Debug\celcius.Form1.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\obj\Debug\celcius.Resources.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 4\LATIHAN4\celcius\celcius\obj\Debug\celcius.vbproj.GenerateResource.Cache
