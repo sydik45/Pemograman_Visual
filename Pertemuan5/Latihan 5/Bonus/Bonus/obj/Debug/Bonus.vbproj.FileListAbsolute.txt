@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\bin\Debug\Bonus.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\bin\Debug\Bonus.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\bin\Debug\Bonus.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\bin\Debug\Bonus.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\obj\Debug\Bonus.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\obj\Debug\Bonus.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\obj\Debug\Bonus.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\obj\Debug\Bonus.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\obj\Debug\Bonus.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Bonus\Bonus\obj\Debug\Bonus.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\bin\Debug\Bonus.exe.config
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\obj\Debug\Bonus.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\obj\Debug\Bonus.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\obj\Debug\Bonus.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\bin\Debug\Bonus.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\bin\Debug\Bonus.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\bin\Debug\Bonus.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\obj\Debug\Bonus.Form1.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\obj\Debug\Bonus.Resources.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan 5\Latihan 5\Bonus\Bonus\obj\Debug\Bonus.vbproj.GenerateResource.Cache
