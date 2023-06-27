@@ -1,0 +1,21 @@
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\bin\Debug\Mahasiswa_Client_Api.exe.config
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.vbprojResolveAssemblyReference.cache
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.Form1.resources
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.Resources.resources
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.vbproj.GenerateResource.Cache
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\bin\Debug\Mahasiswa_Client_Api.exe
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\bin\Debug\Mahasiswa_Client_Api.pdb
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\bin\Debug\Mahasiswa_Client_Api.xml
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\bin\Debug\Newtonsoft.Json.dll
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\bin\Debug\Newtonsoft.Json.pdb
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\bin\Debug\Newtonsoft.Json.xml
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.exe
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.xml
+c:\users\keke crank\documents\visual studio 2015\Projects\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan12\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.Form1.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan12\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.Resources.resources
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan12\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.vbproj.GenerateResource.Cache
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan12\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.exe
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan12\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.xml
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan12\Mahasiswa_Client_Api\obj\Debug\Mahasiswa_Client_Api.pdb
+C:\Users\Keke Crank\Documents\Semester 6\visual\Pertemuan12\Mahasiswa_Client_Api\bin\Debug\Mahasiswa_Client_Api.exe.config
